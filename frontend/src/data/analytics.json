@@ -1,0 +1,589 @@
+{
+  "generated_at": "2026-06-18T21:52:45.813205",
+  "kpis": {
+    "total_revenue": 2333484.06,
+    "total_orders": 5000,
+    "avg_order_value": 466.7,
+    "total_profit": 582888.49,
+    "profit_margin_pct": 24.98,
+    "avg_review_score": 3.94,
+    "avg_delivery_days": 14.9,
+    "repeat_customers": 1400
+  },
+  "monthly_trend": [
+    {
+      "year_month": "2022-01",
+      "revenue": 107646.71,
+      "orders": 213,
+      "profit": 27933.08
+    },
+    {
+      "year_month": "2022-02",
+      "revenue": 84906.08,
+      "orders": 192,
+      "profit": 21808.79
+    },
+    {
+      "year_month": "2022-03",
+      "revenue": 100297.04,
+      "orders": 213,
+      "profit": 24393.88
+    },
+    {
+      "year_month": "2022-04",
+      "revenue": 90077.59,
+      "orders": 205,
+      "profit": 21339.71
+    },
+    {
+      "year_month": "2022-05",
+      "revenue": 105538.92,
+      "orders": 213,
+      "profit": 26679.37
+    },
+    {
+      "year_month": "2022-06",
+      "revenue": 103205.44,
+      "orders": 206,
+      "profit": 25976.49
+    },
+    {
+      "year_month": "2022-07",
+      "revenue": 107148.81,
+      "orders": 212,
+      "profit": 26594.78
+    },
+    {
+      "year_month": "2022-08",
+      "revenue": 99591.04,
+      "orders": 213,
+      "profit": 24290.59
+    },
+    {
+      "year_month": "2022-09",
+      "revenue": 89996.37,
+      "orders": 206,
+      "profit": 22393.04
+    },
+    {
+      "year_month": "2022-10",
+      "revenue": 98187.31,
+      "orders": 212,
+      "profit": 25866.6
+    },
+    {
+      "year_month": "2022-11",
+      "revenue": 88504.85,
+      "orders": 206,
+      "profit": 21347.78
+    },
+    {
+      "year_month": "2022-12",
+      "revenue": 99385.62,
+      "orders": 212,
+      "profit": 24831.22
+    },
+    {
+      "year_month": "2023-01",
+      "revenue": 112030.84,
+      "orders": 213,
+      "profit": 27354.6
+    },
+    {
+      "year_month": "2023-02",
+      "revenue": 94979.25,
+      "orders": 192,
+      "profit": 24476.71
+    },
+    {
+      "year_month": "2023-03",
+      "revenue": 86266.7,
+      "orders": 213,
+      "profit": 21082.59
+    },
+    {
+      "year_month": "2023-04",
+      "revenue": 92076.37,
+      "orders": 205,
+      "profit": 23799.12
+    },
+    {
+      "year_month": "2023-05",
+      "revenue": 103683.66,
+      "orders": 213,
+      "profit": 25397.77
+    },
+    {
+      "year_month": "2023-06",
+      "revenue": 112636.85,
+      "orders": 206,
+      "profit": 27896.5
+    },
+    {
+      "year_month": "2023-07",
+      "revenue": 87051.85,
+      "orders": 212,
+      "profit": 20717.55
+    },
+    {
+      "year_month": "2023-08",
+      "revenue": 95642.49,
+      "orders": 213,
+      "profit": 24518.37
+    },
+    {
+      "year_month": "2023-09",
+      "revenue": 90618.69,
+      "orders": 205,
+      "profit": 22058.83
+    },
+    {
+      "year_month": "2023-10",
+      "revenue": 94715.02,
+      "orders": 213,
+      "profit": 23361.64
+    },
+    {
+      "year_month": "2023-11",
+      "revenue": 94741.67,
+      "orders": 206,
+      "profit": 25044.88
+    },
+    {
+      "year_month": "2023-12",
+      "revenue": 94554.89,
+      "orders": 206,
+      "profit": 23724.6
+    }
+  ],
+  "category_performance": [
+    {
+      "category": "sports",
+      "revenue": 255606.16,
+      "orders": 567,
+      "avg_review": 3.92,
+      "profit": 62893.52,
+      "market_share": 11.0
+    },
+    {
+      "category": "food",
+      "revenue": 253430.93,
+      "orders": 499,
+      "avg_review": 3.9,
+      "profit": 62270.69,
+      "market_share": 10.9
+    },
+    {
+      "category": "home_appliances",
+      "revenue": 241783.63,
+      "orders": 491,
+      "avg_review": 4.0,
+      "profit": 59981.02,
+      "market_share": 10.4
+    },
+    {
+      "category": "electronics",
+      "revenue": 235887.28,
+      "orders": 473,
+      "avg_review": 3.87,
+      "profit": 60266.46,
+      "market_share": 10.1
+    },
+    {
+      "category": "furniture",
+      "revenue": 233111.66,
+      "orders": 522,
+      "avg_review": 3.95,
+      "profit": 59448.83,
+      "market_share": 10.0
+    },
+    {
+      "category": "toys",
+      "revenue": 228784.45,
+      "orders": 511,
+      "avg_review": 3.99,
+      "profit": 55556.45,
+      "market_share": 9.8
+    },
+    {
+      "category": "books",
+      "revenue": 226409.76,
+      "orders": 471,
+      "avg_review": 3.95,
+      "profit": 57449.84,
+      "market_share": 9.7
+    },
+    {
+      "category": "auto_parts",
+      "revenue": 222115.02,
+      "orders": 480,
+      "avg_review": 3.88,
+      "profit": 55912.48,
+      "market_share": 9.5
+    },
+    {
+      "category": "beauty",
+      "revenue": 219563.85,
+      "orders": 511,
+      "avg_review": 3.98,
+      "profit": 55631.69,
+      "market_share": 9.4
+    },
+    {
+      "category": "fashion",
+      "revenue": 216791.32,
+      "orders": 475,
+      "avg_review": 3.92,
+      "profit": 53477.51,
+      "market_share": 9.3
+    }
+  ],
+  "state_sales": [
+    {
+      "state": "SC",
+      "revenue": 255829.8,
+      "orders": 520
+    },
+    {
+      "state": "GO",
+      "revenue": 248897.4,
+      "orders": 489
+    },
+    {
+      "state": "PE",
+      "revenue": 242421.03,
+      "orders": 501
+    },
+    {
+      "state": "CE",
+      "revenue": 240639.22,
+      "orders": 523
+    },
+    {
+      "state": "MG",
+      "revenue": 240231.3,
+      "orders": 525
+    },
+    {
+      "state": "BA",
+      "revenue": 239867.49,
+      "orders": 520
+    },
+    {
+      "state": "PR",
+      "revenue": 236973.2,
+      "orders": 522
+    },
+    {
+      "state": "RS",
+      "revenue": 217163.77,
+      "orders": 479
+    },
+    {
+      "state": "RJ",
+      "revenue": 212422.51,
+      "orders": 463
+    },
+    {
+      "state": "SP",
+      "revenue": 199038.34,
+      "orders": 458
+    }
+  ],
+  "payment_distribution": [
+    {
+      "payment_type": "boleto",
+      "count": 1011,
+      "revenue": 472766.33,
+      "pct": 20.2
+    },
+    {
+      "payment_type": "credit_card",
+      "count": 3292,
+      "revenue": 1533550.84,
+      "pct": 65.8
+    },
+    {
+      "payment_type": "debit_card",
+      "count": 242,
+      "revenue": 101044.77,
+      "pct": 4.8
+    },
+    {
+      "payment_type": "voucher",
+      "count": 455,
+      "revenue": 226122.12,
+      "pct": 9.1
+    }
+  ],
+  "review_distribution": [
+    {
+      "review_score": 1,
+      "count": 250,
+      "pct": 5.0
+    },
+    {
+      "review_score": 2,
+      "count": 366,
+      "pct": 7.3
+    },
+    {
+      "review_score": 3,
+      "count": 792,
+      "pct": 15.8
+    },
+    {
+      "review_score": 4,
+      "count": 1631,
+      "pct": 32.6
+    },
+    {
+      "review_score": 5,
+      "count": 1961,
+      "pct": 39.2
+    }
+  ],
+  "hourly_pattern": [
+    {
+      "hour": 0,
+      "orders": 196,
+      "revenue": 73851.36
+    },
+    {
+      "hour": 1,
+      "orders": 212,
+      "revenue": 97291.62
+    },
+    {
+      "hour": 2,
+      "orders": 209,
+      "revenue": 102395.94
+    },
+    {
+      "hour": 3,
+      "orders": 210,
+      "revenue": 109155.41
+    },
+    {
+      "hour": 4,
+      "orders": 214,
+      "revenue": 90769.78
+    },
+    {
+      "hour": 5,
+      "orders": 220,
+      "revenue": 108060.04
+    },
+    {
+      "hour": 6,
+      "orders": 185,
+      "revenue": 91683.84
+    },
+    {
+      "hour": 7,
+      "orders": 200,
+      "revenue": 87637.24
+    },
+    {
+      "hour": 8,
+      "orders": 226,
+      "revenue": 111009.31
+    },
+    {
+      "hour": 9,
+      "orders": 200,
+      "revenue": 76279.69
+    },
+    {
+      "hour": 10,
+      "orders": 208,
+      "revenue": 103251.16
+    },
+    {
+      "hour": 11,
+      "orders": 207,
+      "revenue": 104173.01
+    },
+    {
+      "hour": 12,
+      "orders": 223,
+      "revenue": 109976.22
+    },
+    {
+      "hour": 13,
+      "orders": 216,
+      "revenue": 103303.47
+    },
+    {
+      "hour": 14,
+      "orders": 189,
+      "revenue": 91330.61
+    },
+    {
+      "hour": 15,
+      "orders": 191,
+      "revenue": 84642.29
+    },
+    {
+      "hour": 16,
+      "orders": 221,
+      "revenue": 105952.38
+    },
+    {
+      "hour": 17,
+      "orders": 196,
+      "revenue": 86857.5
+    },
+    {
+      "hour": 18,
+      "orders": 204,
+      "revenue": 92047.94
+    },
+    {
+      "hour": 19,
+      "orders": 199,
+      "revenue": 93988.7
+    },
+    {
+      "hour": 20,
+      "orders": 218,
+      "revenue": 101831.42
+    },
+    {
+      "hour": 21,
+      "orders": 214,
+      "revenue": 102755.78
+    },
+    {
+      "hour": 22,
+      "orders": 224,
+      "revenue": 101208.07
+    },
+    {
+      "hour": 23,
+      "orders": 218,
+      "revenue": 104031.28
+    }
+  ],
+  "top_products": [
+    {
+      "product": "food_item_6",
+      "revenue": 26936.82,
+      "orders": 35
+    },
+    {
+      "product": "food_item_16",
+      "revenue": 24229.92,
+      "orders": 35
+    },
+    {
+      "product": "auto_parts_item_17",
+      "revenue": 24050.92,
+      "orders": 34
+    },
+    {
+      "product": "sports_item_1",
+      "revenue": 23599.97,
+      "orders": 38
+    },
+    {
+      "product": "auto_parts_item_1",
+      "revenue": 22591.3,
+      "orders": 26
+    },
+    {
+      "product": "beauty_item_4",
+      "revenue": 20927.12,
+      "orders": 36
+    },
+    {
+      "product": "electronics_item_14",
+      "revenue": 20777.9,
+      "orders": 30
+    },
+    {
+      "product": "furniture_item_15",
+      "revenue": 20606.06,
+      "orders": 30
+    },
+    {
+      "product": "toys_item_5",
+      "revenue": 20565.54,
+      "orders": 45
+    },
+    {
+      "product": "beauty_item_12",
+      "revenue": 20330.02,
+      "orders": 36
+    }
+  ],
+  "weekday_revenue": [
+    {
+      "weekday": "Monday",
+      "revenue": 351144.55,
+      "orders": 728
+    },
+    {
+      "weekday": "Tuesday",
+      "revenue": 331229.9,
+      "orders": 728
+    },
+    {
+      "weekday": "Wednesday",
+      "revenue": 327958.53,
+      "orders": 728
+    },
+    {
+      "weekday": "Thursday",
+      "revenue": 346945.52,
+      "orders": 728
+    },
+    {
+      "weekday": "Friday",
+      "revenue": 337634.33,
+      "orders": 728
+    },
+    {
+      "weekday": "Saturday",
+      "revenue": 302869.05,
+      "orders": 631
+    },
+    {
+      "weekday": "Sunday",
+      "revenue": 335702.18,
+      "orders": 729
+    }
+  ],
+  "discount_impact": [
+    {
+      "discount_band": "No Discount",
+      "orders": 2505,
+      "avg_revenue": 478.25,
+      "avg_review": 3.94
+    },
+    {
+      "discount_band": "5%",
+      "orders": 1008,
+      "avg_revenue": 478.16,
+      "avg_review": 3.94
+    },
+    {
+      "discount_band": "10%",
+      "orders": 758,
+      "avg_revenue": 466.46,
+      "avg_review": 3.93
+    },
+    {
+      "discount_band": "15%",
+      "orders": 483,
+      "avg_revenue": 387.16,
+      "avg_review": 3.94
+    },
+    {
+      "discount_band": "20%+",
+      "orders": 246,
+      "avg_revenue": 458.98,
+      "avg_review": 3.91
+    }
+  ]
+}
